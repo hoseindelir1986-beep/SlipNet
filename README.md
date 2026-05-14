@@ -1,12 +1,5 @@
-# SlipNet
+# 
 
-> **⚠️ NOTICE:** This project is protected under the [SlipNet Source-Available License](LICENSE). You may **not** copy, redistribute, or publish this app — in source or binary form — on **any** app store, website, or platform. You may **not** use the SlipNet name, logo, or any part of the code in your own projects. Violations will result in a **DMCA takedown** and may lead to the **permanent suspension of your account**.
-
-> **SlipNet is NOT available on any app store.** Any version you find on Google Play, the Apple App Store, or any other marketplace is **not published by us** and may be outdated, modified, or unsafe. The only official sources are this GitHub repository and our [Telegram channel](https://t.me/SlipNet_app).
-
-<p align="center">
-  <img src="imgs/icon.png" alt="SlipNet Logo" width="200">
-</p>
 
 <p align="center">
   <a href="https://oosmetrics.com/repo/anonvector/SlipNet"><img src="https://api.oosmetrics.com/api/v1/badge/achievement/c36a7332-cc55-4dfc-8b48-49678a659abe.svg" alt="oosmetrics"></a>
